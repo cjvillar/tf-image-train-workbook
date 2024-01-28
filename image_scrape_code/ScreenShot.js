@@ -1,15 +1,15 @@
 /*
-This is a screen capture script made specifically to capture screenshots of a YouTube video.
+This script was made specifically to capture screenshots of a YouTube video.
 The script uses puppetter to caputre images at 60 sec intervals from a video.
-Assumptions are: 
-A 60sec ad plays at the begining of the video
 
+Assumptions are:
+
+A 60sec ad plays at the begining of the video
 the screenshots will be used for an image training model (or so I hope)
 
+run:
 npm install puppeteer
 node ScreenShot.js
-
-
 */ 
 
 const puppeteer = require('puppeteer');
@@ -23,7 +23,7 @@ async function captureVideoScreenshots() {
   await page.setViewport({ width: 1280, height: 720 });
   
   // YouTube video URL
-  const videoUrl = 'https://youtu.be/yzo0lE-gk5I?feature=shared';//'https://youtu.be/RgdMryWc7X0?feature=shared'; //'https://youtu.be/yzo0lE-gk5I?feature=shared';
+  const videoUrl = 'https://youtu.be/PBYoPqlxuh0?feature=shared';
   
   // Nav to YouTube 
   await page.goto(videoUrl);
@@ -42,7 +42,6 @@ async function captureVideoScreenshots() {
     video.play();
   });
 
-
   // capture screenshots every minute
   setInterval(async () => {
     try {
@@ -59,7 +58,7 @@ async function captureVideoScreenshots() {
     } catch (error) {
       console.error('An error occurred while capturing the screenshot:', error);
     }
-  }, 60000); // 60000 milliseconds = 1 minute 
+  }, 30000); // 30000 milliseconds
 }
 
 captureVideoScreenshots();
