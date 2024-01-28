@@ -5,6 +5,11 @@ by attempting to train a model step by step in a jyupiter Notebook.
 
 This repo is a Work In Progress. 
 
+## Steps:
+1. gather data image_scrape_code
+2. run notebook tf_image.ipynb
+
+
 
 ## START
 ```bash
