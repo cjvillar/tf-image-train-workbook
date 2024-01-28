@@ -17,3 +17,7 @@ python -m venv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
+
+
+## Resources
+[Build a Deep CNN Image Classifier...](https://youtu.be/jztwpsIzEGc?feature=shared)
