@@ -19,6 +19,7 @@ pip install -r requirements.txt
 ## Resources
 [Build a Deep CNN Image Classifier...](https://youtu.be/jztwpsIzEGc?feature=shared)
 [Building an object detector...](https://medium.com/nerd-for-tech/building-an-object-detector-in-tensorflow-using-bounding-box-regression-2bc13992973f)
+[DigitalSreeni](https://youtu.be/JhQqquVeCE0?feature=shared)
 
 ## Screenshot Sources:
 [1](https://youtu.be/7XNOJoE6Utg?feature=shared)
