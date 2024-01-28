@@ -1,0 +1,12 @@
+# Env
+env/
+
+#folders
+screenshots/
+processed_images/
+
+#node
+node_modules/
+
+# System Files
+.DS_Store
