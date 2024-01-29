@@ -21,8 +21,14 @@ pip install -r requirements.txt
 
 [DigitalSreeni](https://youtu.be/JhQqquVeCE0?feature=shared)
 
+[Interpreting Loss Curves](https://developers.google.com/machine-learning/testing-debugging/metrics/interpretic)
+
+[effect-of-batch-size-on-training-dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
+
 ### Screenshot Sources:
 [1](https://youtu.be/7XNOJoE6Utg?feature=shared)
 [2](https://youtu.be/yzo0lE-gk5I?feature=shared)
 [3](https://youtu.be/RgdMryWc7X0?feature=shared)
 [4](https://youtu.be/PBYoPqlxuh0?feature=shared)
+Good for no person:
+[5](https://youtu.be/D_QiMn4d9GA?feature=shared)
