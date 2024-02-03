@@ -23,7 +23,7 @@ async function captureVideoScreenshots() {
   await page.setViewport({ width: 1280, height: 720 });
   
   // YouTube video URL
-  const videoUrl = 'https://youtu.be/D_QiMn4d9GA?feature=shared';
+  const videoUrl = 'https://youtu.be/s4u_skbLNQ8?feature=shared&t=279';
   
   // Nav to YouTube 
   await page.goto(videoUrl);
