@@ -1,8 +1,12 @@
 # Env
 env/
 
+#models
+*.pth
+
+
 #folders
-screenshots/
+image_scrape_code\screenshots
 processed_images/
 test_images/
 

@@ -1,5 +1,14 @@
 {
+  "name": "youtube-screenshot-capture",
+  "version": "1.0.0",
+  "description": "Captures screenshots from a YouTube video at regular intervals",
+  "main": "ScreenShot.js",
+  "scripts": {
+    "start": "node ScreenShot.js"
+  },
   "dependencies": {
-    "puppeteer": "^21.9.0"
+    "puppeteer": "^24.40.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }

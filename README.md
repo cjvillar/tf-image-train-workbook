@@ -1,6 +1,6 @@
 # Understanding TensorFlow with Image Detection
 
-This repository documents my learning **image and object detection** with **TensorFlow** and using a **Jupyter Notebooks**.
+This repository documents a Binary CNN classifier: **person** vs **no person**, with **PyTorch** and **Jupyter Notebooks**.
 
 ---
 
@@ -9,7 +9,7 @@ This repository documents my learning **image and object detection** with **Tens
 To understand how image classification and object detection work under the hood by:
 
 - Gathering and preparing a dataset
-- Building and training a TensorFlow image model
+- Building and training a Binary CNN classifier
 - Experimenting with model architecture and loss curves
 
 ---
@@ -69,6 +69,22 @@ These helped shape the content and concepts in this project:
 - [Effect of Batch Size on Training Dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
 
 ---
+
+# Get Training Images:
+
+## 1. Install dependencies (only needed once)
+npm install
+
+## 2. Run the script
+node ScreenShot.js
+
+
+## 3. Label
+
+pip install opencv-python
+python label_images.py
+
+python label_images.py --input .\image_scrape_code\screenshots --crop 15 68 843 462
 
 ## Screenshot/Video Sources for Dataset (YouTube)
 ~Check for quality as YouTube does not like automation when used to scape data

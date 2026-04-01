@@ -1,0 +1,17 @@
+original_file,cropped_file,label
+screenshot-2026-04-01T17-16-13-462Z.png,./cropped\person\screenshot-2026-04-01T17-16-13-462Z_person.png,person
+screenshot-2026-04-01T17-16-23-720Z.png,./cropped\person\screenshot-2026-04-01T17-16-23-720Z_person.png,person
+screenshot-2026-04-01T17-16-33-984Z.png,./cropped\person\screenshot-2026-04-01T17-16-33-984Z_person.png,person
+screenshot-2026-04-01T17-16-44-233Z.png,./cropped\person\screenshot-2026-04-01T17-16-44-233Z_person.png,person
+screenshot-2026-04-01T17-18-03-222Z.png,./cropped\not_person\screenshot-2026-04-01T17-18-03-222Z_not_person.png,not_person
+screenshot-2026-04-01T17-18-13-519Z.png,./cropped\not_person\screenshot-2026-04-01T17-18-13-519Z_not_person.png,not_person
+screenshot-2026-04-01T17-18-23-759Z.png,./cropped\not_person\screenshot-2026-04-01T17-18-23-759Z_not_person.png,not_person
+screenshot-2026-04-01T17-18-33-967Z.png,./cropped\not_person\screenshot-2026-04-01T17-18-33-967Z_not_person.png,not_person
+screenshot-2026-04-01T17-58-43-157Z.png,./cropped\person\screenshot-2026-04-01T17-58-43-157Z_person.png,person
+screenshot-2026-04-01T17-58-53-495Z.png,./cropped\person\screenshot-2026-04-01T17-58-53-495Z_person.png,person
+screenshot-2026-04-01T17-59-03-714Z.png,./cropped\person\screenshot-2026-04-01T17-59-03-714Z_person.png,person
+screenshot-2026-04-01T17-59-13-960Z.png,./cropped\person\screenshot-2026-04-01T17-59-13-960Z_person.png,person
+screenshot-2026-04-01T17-59-58-996Z.png,./cropped\not_person\screenshot-2026-04-01T17-59-58-996Z_not_person.png,not_person
+screenshot-2026-04-01T18-00-09-331Z.png,./cropped\not_person\screenshot-2026-04-01T18-00-09-331Z_not_person.png,not_person
+screenshot-2026-04-01T18-00-19-559Z.png,./cropped\not_person\screenshot-2026-04-01T18-00-19-559Z_not_person.png,not_person
+screenshot-2026-04-01T18-00-29-787Z.png,./cropped\not_person\screenshot-2026-04-01T18-00-29-787Z_not_person.png,not_person

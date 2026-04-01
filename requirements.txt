@@ -1,7 +1,6 @@
-tensorflow>=2.16.0,<2.18
+torch
+torchvision
 matplotlib
-opencv-python
-numpy
 pillow
 jupyter
-
+onnxscript
